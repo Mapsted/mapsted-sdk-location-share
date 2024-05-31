@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HrXsnFHxGo4krGIzj/vjYtL5/tY=
+		YAcMSoaMCLL5/WKq86/+J9DecCc=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		7lsNeMW6atoN8r9kG3M6nVI9Qw8=
+		G/pB5p3SjEJMmeHBd7SWvl7tax0=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -118,6 +118,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>hi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AlDr0ofZYb/g+Akz8ehkumpNcoQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>hmn.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -132,6 +141,15 @@
 			<key>hash</key>
 			<data>
 			H3mUywI1TM5k887hd4MPlDh53Pg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>kn.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XkXYZLYarBopfHUh4MmzwEqxTkg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -159,6 +177,15 @@
 			<key>hash</key>
 			<data>
 			Y8KVlAAfDMoyHz+e/4/TshDu24Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ta.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TEet63XmWTPCSsNF9sm3e0WaEs8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -200,7 +227,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AvDq+qJ/JDFxOXPIA1oIjvz5GWCXEMm6+h/7EMHm0cA=
+			FJzs35ZsgIq29W682D81rol9Iluv+06+UmX4HrFx7h8=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -327,6 +354,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>hi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oJcq1aU8wC9Q/XBOpV/QLq56GACphR+QuO4LFys8WT8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>hmn.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -341,6 +377,15 @@
 			<key>hash2</key>
 			<data>
 			k4RfRx/7StLPbjD4qN4edanxGp2cN98v6AiBddvTYDc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>kn.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			77HHVtei479sJAjQ5w0XI49fI9FKxRnSzI+CBXxz/GE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -368,6 +413,15 @@
 			<key>hash2</key>
 			<data>
 			WOkOC5Y/CDe0FGgFgPB+kb34qY+ou5l/2gavvdwcZ4c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ta.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jgWY3pBsErn9FPYGiMLNwDwjIgt7mzzNF3Ndag89qdQ=
 			</data>
 			<key>optional</key>
 			<true/>
