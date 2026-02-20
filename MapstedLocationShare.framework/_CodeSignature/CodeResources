@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		zsQ01lisJtNAH5zMAc0nVTl39Qc=
+		YmZNRahtOsE+dnDQj+iZQswvG6E=
 		</data>
 		<key>Headers/MapstedLocationShare-Swift.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9xXtoZaVpZB1gzGpzLu1/zGxTKk=
+		K8SLifKGI3aPtX/KLWaj181m5BA=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		urv7/SvzooP6DvBkDPMrvsn6Ets=
+		ixZnABgKGpJUoQq/IflNNKo+aR0=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		maE2hcuwzKMxS1NXEW1O0OUwLf8=
+		vRCfSom+Jd0mF4u6lwU2WnqRk6w=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qbWW6VGP9oyFq1/poGsD6uqbM90=
+		MuxOwuyy5Q586g9MUFQOWlxuKEA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -224,7 +224,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yHjHlO7XkzcNhzWO70HHryxrLJJluqRSTelm18YGriQ=
+			zHKxviAbU5bLs9vI/gCTzXTMOJxMt8ydR9rGJjzHVvo=
 			</data>
 		</dict>
 		<key>Headers/MapstedLocationShare-Swift.h</key>
@@ -245,14 +245,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8uAw/Z+t4/muhqorsO4kOS1pAtrBGbVvRKnNdpmFJfo=
+			f4KyZB7Z0XIP9vlSXO+X6g9c3/gBZ8m9ifXaqV/sKCU=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7r6kONS73m0KYVqhX/F2514InmUDg99KdPiI7O6QBpM=
+			/Vu4YdAfnXamSTUKN9y08j5jRw2MOATcqv2Fa5ue4Z8=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -280,7 +280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sXwfUsW0So1IEDdUg4I9QnWQSi+/yhrqZ2uppphdeyo=
+			2nzr7Zr0DUiAaluryzQD1iOaIX8HdCt9UtKn6LJ0DpA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
